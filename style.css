@@ -135,24 +135,26 @@ body {
 
 .texto-bienvenida {
     max-width: 600px;
+    color: #002244;
+    text-align: center;
+}
+.texto-bienvenida p {
+    font-weight: 400;
+    font-size: 1.5rem;
 }
 
 .texto-bienvenida h1 {
     font-size: 3.5rem;
     font-weight: 700;
-    color: #002244;
     margin-bottom: 20px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
     letter-spacing: 1px;
-    text-align: center;
 }
 
 .titulo-bienvenida {
     font-size: 2rem;
-    color: #002244;
     margin: 0;
     font-weight: 400;
-    text-align: center;
     font-style: italic;
 }
 
